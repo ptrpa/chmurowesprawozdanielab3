@@ -1,3 +1,4 @@
+<pre>
 # chmurowesprawozdanielab3
 
 Zapis z konsoli:
@@ -169,7 +170,7 @@ latest: digest: sha256:104f82606ea66da00e6cfecbcccdb53ba4238a7057bed809f004107ad
 piotr@DESKTOP-VQG076S:/mnt/c/WINDOWS/system32$ curl -k https://localhost:5000/v2/_catalog
 {"repositories":["my-ubuntu"]}
 piotr@DESKTOP-VQG076S:/mnt/c/WINDOWS/system32$
-
+</pre>
 
 
 ----------------------------------------------------------------------------
